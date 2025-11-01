@@ -1,0 +1,1 @@
+# Modos-de-vibracao-em-uma-membrana-circular
