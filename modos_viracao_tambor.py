@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import jn, jn_zeros
 
-m = 1 #modo angular inicial 
-n = 1 #primeiro modo radial
+m = 1 #modo angular  
+n = 2 #modo radial
 a = 1 #raio do tambor
 
 raizes_j = jn_zeros(m,n)
@@ -30,5 +30,5 @@ Y = R*np.sin(THETA)
 fig = plt.figure()
 ax = fig.add_subplot(111, projection = '3d')
 ax.plot_surface(X, Y, U)
-ax.set_title('Modos de Vibração numa Membrana Circular')
+ax.set_title(f"Modos de Vibração numa Membrana Circular\nModo (m={m}, n={n})")
 plt.show()
