@@ -4,7 +4,7 @@
 <div align="center">
   <img src="modo_0_1.png" alt="Modo (0,1)" width="300"/>
   <img src="modo_1_1.png" alt="Modo (1,1)" width="300"/>
-  <img src="modo_0_2.png" alt="Modo (1,2)" width="300"/>
+  <img src="modo_1_2.png" alt="Modo (1,2)" width="300"/>
 </div>
 
 ### Contexto Físico
