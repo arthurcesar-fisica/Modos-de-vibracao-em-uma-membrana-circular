@@ -10,7 +10,7 @@ raizes_j = jn_zeros(m,n)
 x_mn = raizes_j[0]
 k_mn = x_mn/a
 
-#Grid
+#Grid 
 
 #criando um vetor 1D para o raio r, de 0 até a
 r_vec = np.linspace(0, a, 50)
