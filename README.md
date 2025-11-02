@@ -1,4 +1,4 @@
-# Modos-de-vibracao-em-uma-membrana-circular
+# Modos de vibração em uma membrana circular
 
 ### Projeto de computação científica para visualizar os modos de vibração em uma membrana circular
 <div align="center">
