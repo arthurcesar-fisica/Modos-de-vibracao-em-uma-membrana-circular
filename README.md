@@ -1,6 +1,11 @@
 # Modos-de-vibracao-em-uma-membrana-circular
 
+<<<<<<< HEAD
 ### Projeto de computação científica para visualizar os modos de vibração em uma membrana circular
+=======
+### Projeto de computação científica para visualizar os modos de vibração em uma membrana circular 
+![alt text](image.png)
+>>>>>>> 4c529f6c11a1d1d4ebe944ecba67664e72ef6778
 
 <div align="center">
   <img src="modo_0_1.png" alt="Modo (0,1)" width="300"/>
