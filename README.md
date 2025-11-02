@@ -1,6 +1,6 @@
 # Modos-de-vibracao-em-uma-membrana-circular
 
-Projeto de computação científica para visualizar os modos de vibração em uma membrana circular 
+### Projeto de computação científica para visualizar os modos de vibração em uma membrana circular 
 ![alt text](image.png)
 
 ### Contexto Físico
